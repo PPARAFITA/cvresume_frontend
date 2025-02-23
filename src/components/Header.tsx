@@ -6,7 +6,7 @@ export default function Header() {
     <header className="bg-gradient-to-r from-gray-900 to-gray-800 text-white py-20">
       <div className="container mx-auto px-4">
         <div className="max-w-4xl mx-auto">
-          <h1 className="text-5xl font-bold mb-4">Juan Developer</h1>
+          <h1 className="text-5xl font-bold mb-4">Priscila Developer</h1>
           <h2 className="text-2xl text-gray-300 mb-6">Full Stack Developer</h2>
           
           <div className="flex flex-wrap items-center gap-6 text-gray-300">
